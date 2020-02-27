@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Annabel Martin",
+    "occupation": "Upper Management",
+    "network": "e"
+  },
+  {
+    "id": 2,
+    "name": "Hector Reyes",
+    "occupation": "Employee",
+    "network": "e"
+  },
+  {
+    "id": 3,
+    "name": "Jayda Mora",
+    "occupation": "Upper Management",
+    "network": "e"
+  },
+  {
+    "id": 4,
+    "name": "Jagger Bentley",
+    "occupation": "Upper Management",
+    "network": "e"
+  },
+  {
+    "id": 5,
+    "name": "Abram Harris",
+    "occupation": "Intern",
+    "network": "i"
+  },
+  {
+    "id": 6,
+    "name": "Roberto Lawrence",
+    "occupation": "Employee",
+    "network": "e"
+  },
+  {
+    "id": 7,
+    "name": "Sofia Tucker",
+    "occupation": "Employee",
+    "network": "e"
+  },
+  {
+    "id": 8,
+    "name": "Perla Kim",
+    "occupation": "Intern",
+    "network": "i"
+  },
+  {
+    "id": 9,
+    "name": "Carleigh Drake",
+    "occupation": "Intern",
+    "network": "i"
+  },
+  {
+    "id": 10,
+    "name": "Ray Pace",
+    "occupation": "Employee",
+    "network": "e"
+  },
+  {
+    "id": 11,
+    "name": "Jamarion Prince",
+    "occupation": "Employee",
+    "network": "e"
+  },
+  {
+    "id": 12,
+    "name": "Zaiden Valencia",
+    "occupation": "Employee",
+    "network": "e"
+  }
+]
