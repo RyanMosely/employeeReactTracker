@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 import Filter from "./components/Filter";
 import AmFilter from "./components/AmFilter";
-import ManaFilter from "./components/ManaFilter";
 import FriendCard from "./components/FriendCard";
 import Wrapper from "./components/Wrapper";
 import Title from "./components/Title";
@@ -35,8 +34,6 @@ class App extends Component {
    
    if (node instanceof HTMLElement) {
     const child = node.querySelector('.test');
-    const childTwo = node.querySelector('.testTwo');
-    const childThree = node.querySelector('.testThree');
 
 
     if (child.checked === true) {
